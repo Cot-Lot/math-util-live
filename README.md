@@ -7,3 +7,4 @@
 * README.md - this file itself - using Markdown language
 
 ### © 2022 Cốt.Lốt | fb/hao.minh.33671748
+![HAO Handsome](https://www.facebook.com/photo/?fbid=1301490670301849&set=a.122421604875434)
